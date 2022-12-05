@@ -1,3 +1,5 @@
+.ve-header "Bedroom in Arles" wc:Van_Gogh_-_Vincents_Schlafzimmer_in_Arles.jpeg sticky "Paintings by Vincent van Gogh"
+
 # Bedroom in Arles
 
 Bedroom in Arles (French: La Chambre à Arles; Dutch: Slaapkamer te Arles) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh.
