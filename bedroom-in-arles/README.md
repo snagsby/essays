@@ -1,3 +1,5 @@
+.ve-header "Bedroom In Arles" wc:Van_Gogh_-_Vincents_Schlafzimmer_in_Arles.jpeg "Paintings by Vincent van Gogh, 1888-1889" sticky
+
 # Bedroom in Arles
 
 From Wikipedia, the free encyclopedia[^1]
