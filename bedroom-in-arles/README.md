@@ -1,4 +1,4 @@
-.ve-header "Bedroom in Arles" wc:Van_Gogh_-_Vincents_Schlafzimmer_in_Arles.jpeg "Paintings by Vincent van Gogh, 1888-1889" sticky
+.ve-header "Bedroom in Arles" wc:Van_Gogh_-_Vincents_Schlafzimmer_in_Arles.jpeg "Paintings by Vincent van Gogh, 1888-1889" sticky 
 
 # Bedroom in Arles
 
