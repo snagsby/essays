@@ -26,6 +26,6 @@ Dickens locates the fictional Bleak House in St Albans, Hertfordshire, where he 
 ## Map
 
 .ve-map Q922739 16 right
-    - 51.35982,1.44494
+    - 51.35982,1.44494 "Bleak House" wc:Bleak-house-broadstairs.jpg
 
 [^1]:  Wikipedia contributors. (2023, January 31). Bleak House. In Wikipedia, The Free Encyclopedia. Retrieved 20:35, February 1, 2023, from https://en.wikipedia.org/w/index.php?title=Bleak_House&oldid=1136740120
