@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Bleak house, formerly known as Fort House",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/757982ba30ad049cbc590d09a3518fd3.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:376.6793518066406,428.4732360839844,522.0457458496094,220.70230102539062"
+      },
+      "id": "8ad62e97"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d9f9e30b"
+  }
+]
