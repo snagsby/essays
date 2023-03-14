@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Something about this",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/d29545068ee5ff13562f34704b2edb32.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2383.93603515625,1902.7547607421875,71.758056640625,102.795654296875"
+      },
+      "id": "75300729"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e4446372"
+  }
+]
