@@ -1,3 +1,2 @@
-# README.md
-
-[Bleak House](/bleak-house)
+- [Bleak House](/bleak-house)
+- [Code4Lib demo](/code4lib-demo)
